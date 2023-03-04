@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Ishtiaque Ahmed Cseh Rafin</h1>
 - Chief Security Development Officer of Windows and Azure at Microsoft Corporation (https://microsoft.com) (https://windows.com)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/csehrafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csehrafin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishtiaque ahmed cseh rafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishtiaque ahmed cseh rafin" height="30" width="40" /></a>
