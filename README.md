@@ -22,14 +22,14 @@ If you have any questions or would like to connect, feel free to reach out to me
 
 
 ## Language and Tools
-# Wireshark
-# Android Studio
-# ADB / Platform Tools
-# VMware Workstation Pro
-# Visual Studio Code
-# Visual Studio
-# Windows Subsystem for Android & Linux 
-# Jetbrains Toolbox and Gateway
-# WAC / Windows Admin Center
-# Docker Desktop in Windows / CLI in WSL (Windows Subsystem for Linux)
-# Powershell Preview (7)
+### Wireshark
+### Android Studio
+### ADB / Platform Tools
+### VMware Workstation Pro
+### Visual Studio Code
+### Visual Studio
+### Windows Subsystem for Android & Linux 
+### Jetbrains Toolbox and Gateway
+### WAC / Windows Admin Center
+### Docker Desktop in Windows / CLI in WSL (Windows Subsystem for Linux)
+### Powershell Preview (7)
