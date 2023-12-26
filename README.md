@@ -5,7 +5,7 @@
 - Chief Security Development Officer of Windows and Azure at Microsoft Corporation (https://microsoft.com) (https://windows.com)
 ## About Me
 
-I'm the Chief Security Development Officer of Windows and Azure at Microsoft, where I work on developing and implementing security solutions for our platforms. With over 4 years of experience in the tech industry, I'm passionate about creating secure and reliable systems that enable businesses to operate with confidence.
+I'm the CEO and Owner of Security Experts, where I work on developing and implementing security solutions for our platforms. With over 4 years of experience in the tech industry, I'm passionate about creating secure and reliable systems that enable businesses to operate with confidence.
 
 ## Areas of Expertise
 
