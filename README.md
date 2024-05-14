@@ -2,11 +2,11 @@
 
 
 # Hello, I'm Ishtiaque Ahmed Rafin
-- Chief Security Development Officer of Windows and Azure at Microsoft Corporation (https://microsoft.com) (https://windows.com)
-## About Me
-
-I'm the CEO and Owner of Security Experts, where I work on developing and implementing security solutions for our platforms. With over 4 years of experience in the tech industry, I'm passionate about creating secure and reliable systems that enable businesses to operate with confidence.
-
+- Microsoft 365 Developer at Microsoft
+- Windows Security Development at Microsoft
+- Cloud Innovator at Google Cloud 
+- CEO and Owner of Security Experts
+  
 ## Areas of Expertise
 
 - Security architecture design and implementation
