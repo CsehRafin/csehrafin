@@ -14,6 +14,7 @@
 - Threat intelligence and incident response
 - Cloud security and compliance
 - Risk management and mitigation
+- Authentication System Through Okta, Auth0, Firebase and Microsoft Azure
 
 ## Contact Me
 
