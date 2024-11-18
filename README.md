@@ -13,7 +13,7 @@
 - Threat intelligence and incident response
 - Cloud security and compliance
 - Risk management and mitigation
-- Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identit and Firebase
+- Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identity and Firebase
 ## Contact Me
 
 - [Linkedin](https://linkedin.com/in/csehrafin)
