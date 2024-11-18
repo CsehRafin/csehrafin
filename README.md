@@ -16,7 +16,8 @@
 - Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identit and Firebase
 ## Contact Me
 
-If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/csehrafin/) or [Twitter](https://twitter.com/CsehRafin). I'm always interested in hearing about new ideas and opportunities to collaborate.
+- [Linkedin](https://linkedin.com/in/csehrafin)
+- [csehrafin@csehrafin.cloudns.nz](mailto:csehrafin@csehrafin.cloudns.nz)
 
 
 ## Language and Tools
