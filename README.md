@@ -2,10 +2,10 @@
 
 
 # Hello, I'm Ishtiaque Ahmed Rafin
-- Microsoft 365 Developer at Microsoft
-- Windows Security Development at Microsoft
-- Cloud Innovator at Google Cloud 
-- CEO and Owner of Security Experts
+- Microsoft 365 Developer at [Microsoft](https://microsoft.com)
+- [Microsoft Azure](https://azure.microsoft.com/) Developer and Engineer
+- Cloud Innovator at [Google Cloud](cloud.google.com)
+- President and Founder of [The Computer Science Hall](https://github.com/thecomputersciencehall)
   
 ## Areas of Expertise
 
@@ -18,7 +18,7 @@
 
 ## Contact Me
 
-If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/cseh-rafin/) or [Twitter](https://twitter.com/CsehRafin). I'm always interested in hearing about new ideas and opportunities to collaborate.
+If you have any questions or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/csehrafin/) or [Twitter](https://twitter.com/CsehRafin). I'm always interested in hearing about new ideas and opportunities to collaborate.
 
 
 ## Language and Tools
