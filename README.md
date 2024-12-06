@@ -1,7 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+![image](https://github.com/user-attachments/assets/16a9d34f-9408-4bfa-b5c1-09dfe93f6272)<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
+<h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
-# Hello, I'm Ishtiaque Ahmed Rafin
 - Microsoft 365 Developer at [Microsoft](https://microsoft.com)
 - [Microsoft Azure](https://azure.microsoft.com/) Developer and Engineer
 - Cloud Innovator at [Google Cloud](cloud.google.com)
