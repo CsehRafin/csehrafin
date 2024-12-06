@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16a9d34f-9408-4bfa-b5c1-09dfe93f6272)<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
+<img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
