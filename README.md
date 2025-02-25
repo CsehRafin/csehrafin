@@ -15,6 +15,7 @@
 - Risk management and mitigation
 - Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identity and Firebase
 - Government Identity Developer :)
+- Citizen Identity Designer and Developer
 ## Contact Me
 
 - [Linkedin](https://linkedin.com/in/csehrafin)
