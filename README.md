@@ -23,17 +23,4 @@
 - [csehrafin@csehrafin.cloudns.nz](mailto:csehrafin@csehrafin.cloudns.nz)
 
 
-## Language and Tools
-- Wireshark
-- Android Studio
-- ADB / Platform Tools
-- VMware Workstation Pro
-- Visual Studio Code
-- Windows Subsystem for Android & Linux 
-- Jetbrains Toolbox and Gateway
-- WAC / Windows Admin Center
-- Docker Desktop in Windows / CLI in WSL (Windows Subsystem for Linux)
-- Powershell Preview (7)
-- Microsoft Azure CLI
-- Github Codespaces
-- Google Cloud Shell
+
