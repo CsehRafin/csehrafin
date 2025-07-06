@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
+- Member at [Internet Society](https://www.internetsociety.org/)
 - General Secretary and Chair of Governing Council of [International Organization for Identity Documents](https://github.com/int-oid)
 - Permanant Member and Chair of General Assembly [JUNE / OCT] of [The Computer Science Hall](https://github.com/thecomputersciencehall)
 - Microsoft 365 Developer at [Microsoft](https://microsoft.com)
