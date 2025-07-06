@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
-- President and Founder of [International Organization for Identity Documents](https://github.com/int-oid)
-- President and Founder of [The Computer Science Hall](https://github.com/thecomputersciencehall)
+- General Secretary and Chair of Governing Council of [International Organization for Identity Documents](https://github.com/int-oid)
+- Permanant Member and Chair of General Assembly [JUNE / OCT] of [The Computer Science Hall](https://github.com/thecomputersciencehall)
 - Microsoft 365 Developer at [Microsoft](https://microsoft.com)
 - Microsoft Innovative Educator at [Microsoft](https://microsoft.com)
 - [Microsoft Azure](https://azure.microsoft.com/) Developer and Engineer
@@ -14,9 +14,11 @@
 - Threat intelligence and incident response
 - Cloud security and compliance
 - Risk management and mitigation
-- Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identity and Firebase
-- Government Identity Developer
+- Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identity and Oracle Cloud Infrastructure (IAM)
+- Government Identity Development
 - Citizen Identity Designer and Developer
+- IPKD / ICAO DOC 9303 Systems Development
+- Development of Advanced Standards on Machine Readable Travel and Identification Documents and Systems
 
 
 ## Projects
