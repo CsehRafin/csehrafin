@@ -10,16 +10,20 @@
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
 ## Areas of Expertise
-- Security architecture design and implementation
-- Vulnerability assessment and remediation
-- Threat intelligence and incident response
-- Cloud security and compliance
-- Risk management and mitigation
-- Authentication System Through Auth0, Microsoft Entra ID, Google Cloud Identity and Oracle Cloud Infrastructure (IAM)
-- Government Identity Development
-- Citizen Identity Designer and Developer
-- IPKD / ICAO DOC 9303 Systems Development
-- Development of Advanced Standards on Machine Readable Travel and Identification Documents and Systems
+- Security Architecture Design and Implementation  
+- Vulnerability Assessment and Remediation  
+- Threat Intelligence and Incident Response  
+- Cloud Security and Compliance  
+- Risk Management and Mitigation  
+- Authentication and Access Control Systems  
+  - Auth0  
+  - Microsoft Entra ID  
+  - Google Cloud Identity  
+  - Oracle Cloud Infrastructure (IAM)  
+- Government Identity System Architecture and Development  
+- Citizen Identity Design and Implementation  
+- IPKD / ICAO Document 9303 Compliant Systems  
+- Development of Standards for Machine Readable Travel Documents and Identification Systems  
 
 
 ## Projects
@@ -30,6 +34,15 @@
 - Public Key Directory @ [The Computer Science Hall](https://github.com/thecomputersciencehall)
 - Electronic Machine Readable Travel Document Issuance Suite @ [International Organization for Identity Documents](https://github.com/int-oid)
 - Public Key Infrastructure for Document Issuance @ [The Computer Science Hall](https://github.com/thecomputersciencehall)
+
+## Current Technical Focus
+
+- Multi-cloud Identity Management and Federation  
+- High-Security Document Issuance Platforms  
+- Public Key Infrastructure (PKI) Deployment in Government and Intergovernmental Systems  
+- Compliance with ICAO, ISO/IEC, NIST, and other international technical standards  
+- Trust Frameworks and Directory Services for eID, ePassport, and Visa Systems
+
 ## Contact Me
 
 - [Linkedin](https://linkedin.com/in/csehrafin)
