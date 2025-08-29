@@ -19,22 +19,19 @@
   - Auth0  
   - Microsoft Entra ID  
   - Google Cloud Identity  
-  - Oracle Cloud Infrastructure (IAM)  
+  - Oracle Cloud Infrastructure
 - Government Identity System Architecture and Development  
 - Citizen Identity Design and Implementation  
 - IPKD / ICAO Document 9303 Compliant Systems  
 - Development of Standards for Machine Readable Travel Documents and Identification Systems  
-
+- Development of Secure Advanced Identification and Biometric Systems such as ABIS Databases and AFIS Databases
+- Machine Learning
+- Using AI Vector Search and Oracle Database 23ai
+- ISO 27001:2022
+- ISO/IEC 39794
 
 ## Projects
-- Document Series: Travel Document: Republic of UTOPIA
-- Document Series: Travel Document: Kingdom of UTOPIA
-- International Public Key Directory: IPKD
-- National Public Key Directory Service for Governments: NPKD
-- Public Key Directory @ [The Computer Science Hall](https://github.com/thecomputersciencehall)
-- Electronic Machine Readable Travel Document Issuance Suite @ [International Organization for Identity Documents](https://github.com/int-oid)
-- Public Key Infrastructure for Document Issuance @ [The Computer Science Hall](https://github.com/thecomputersciencehall)
-
+[All Projects](https://www.linkedin.com/in/csehrafin/details/projects/)
 ## Current Technical Focus
 
 - Multi-cloud Identity Management and Federation  
@@ -42,6 +39,7 @@
 - Public Key Infrastructure (PKI) Deployment in Government and Intergovernmental Systems  
 - Compliance with ICAO, ISO/IEC, NIST, and other international technical standards  
 - Trust Frameworks and Directory Services for eID, ePassport, and Visa Systems
+
 
 ## Contact Me
 
