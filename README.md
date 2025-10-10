@@ -3,7 +3,7 @@
 
 - Member at [Internet Society](https://www.internetsociety.org/)
 - General Secretary and Chair of Governing Council of [International Organization for Identity Documents](https://github.com/int-oid)
-- Permanant Member and Chair of General Assembly [JUNE / OCT] of [The Computer Science Hall](https://github.com/thecomputersciencehall)
+- Secretary General of [The Computer Science Hall](https://github.com/thecomputersciencehall) (2024-2025)
 - Microsoft 365 Developer at [Microsoft](https://microsoft.com)
 - Microsoft Innovative Educator at [Microsoft](https://microsoft.com)
 - [Microsoft Azure](https://azure.microsoft.com/) Developer and Engineer
