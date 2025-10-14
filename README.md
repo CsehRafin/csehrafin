@@ -27,8 +27,8 @@
 - Trust Frameworks & Directory Services for eID, ePassport, and Visa Systems  
 - Quantum Computing & IBM Qiskit Solutions  
 - Multi-cloud Architecture and Infrastructure Automation  
-- Svelte / Astro / WebAssembly, Full Stack Development  
-- Docker, Kubernetes, Embedded & Government-Grade Systems
+- Full Stack Development  
+- Embedded & Government-Grade Systems
 
 ## Projects
 [All Projects](https://www.linkedin.com/in/csehrafin/details/projects/)
