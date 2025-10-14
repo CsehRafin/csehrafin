@@ -11,34 +11,35 @@
 
 ## Areas of Expertise
 - Security Architecture Design and Implementation  
-- Vulnerability Assessment and Remediation  
-- Threat Intelligence and Incident Response  
-- Cloud Security and Compliance  
+- Vulnerability Assessment & Remediation  
+- Threat Intelligence & Incident Response  
+- Cloud Security, DevSecOps & Compliance  
 - Risk Management and Mitigation  
-- Authentication and Access Control Systems  
-  - Auth0  
-  - Microsoft Entra ID  
-  - Google Cloud Identity  
-  - Oracle Cloud Infrastructure
-- Government Identity System Architecture and Development  
-- Citizen Identity Design and Implementation  
-- IPKD / ICAO Document 9303 Compliant Systems  
-- Development of Standards for Machine Readable Travel Documents and Identification Systems  
-- Development of Secure Advanced Identification and Biometric Systems such as ABIS Databases and AFIS Databases
-- Machine Learning
-- Using AI Vector Search and Oracle Database 23ai
-- ISO 27001:2022
-- ISO/IEC 39794
+- Authentication, Access Control, & Identity Federation  
+- Auth0, Microsoft Entra ID, Google Cloud Identity, Oracle Cloud Infrastructure  
+- Government & Citizen Identity Systems Architecture  
+- IPKD / ICAO DOC 9303 Compliant Systems  
+- Development of Secure eID, ePassport, eMRTD, ABIS & AFIS Systems  
+- Machine Learning, AI Vector Search, and Edge Intelligence  
+- ISO 27001:2022, ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794, FIPS 203–205  
+- GDPR / Swiss FADP Compliance  
+- Intellectual Property, Treaty & International Law  
+- Trust Frameworks & Directory Services for eID, ePassport, and Visa Systems  
+- Quantum Computing & IBM Qiskit Solutions  
+- Multi-cloud Architecture and Infrastructure Automation  
+- Svelte / Astro / WebAssembly, Full Stack Development  
+- Docker, Kubernetes, Embedded & Government-Grade Systems
 
 ## Projects
 [All Projects](https://www.linkedin.com/in/csehrafin/details/projects/)
+
 ## Current Technical Focus
 
-- Multi-cloud Identity Management and Federation  
+- Multi-cloud Identity Management & Federation  
 - High-Security Document Issuance Platforms  
-- Public Key Infrastructure (PKI) Deployment in Government and Intergovernmental Systems  
-- Compliance with ICAO, ISO/IEC, NIST, and other international technical standards  
-- Trust Frameworks and Directory Services for eID, ePassport, and Visa Systems
+- Public Key Infrastructure (PKI) Deployment in Governmental & Intergovernmental Systems  
+- Compliance with ICAO, ISO/IEC, NIST, and Other International Technical Standards  
+- Trust Frameworks and Directory Services for eID, ePassport, Visa Systems, and Secure Citizen Identity Platforms  
 
 
 ## Contact Me
