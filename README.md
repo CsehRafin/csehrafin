@@ -2,6 +2,8 @@
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
 - General Secretary of [International Organization for Identity Documents](https://github.com/int-oid)
+  - *Developing international standards for ePassport PKI and visa exchange systems*  
+  - *Working toward intergovernmental recognition and multilateral treaty status*
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
 ## Areas of Expertise
@@ -12,13 +14,12 @@
 - Risk Management and Mitigation  
 - Authentication, Access Control, & Identity Federation  
 - Auth0, Microsoft Entra ID, Google Cloud Identity, Oracle Cloud Infrastructure  
-- Government & Citizen Identity Systems Architecture  
 - IPKD / ICAO DOC 9303 Compliant Systems  
 - Development of Secure eID, ePassport, eMRTD, ABIS & AFIS Systems  
 - Machine Learning, AI Vector Search, and Edge Intelligence  
 - ISO 27001:2022, ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794, FIPS 203–205  
 - GDPR / Swiss FADP Compliance  
-- Intellectual Property, Treaty & International Law  
+- Intellectual Property, Treaty & International Law Researcher
 - Trust Frameworks & Directory Services for eID, ePassport, and Visa Systems  
 - Quantum Computing & IBM Qiskit Solutions  
 - Multi-cloud Architecture and Infrastructure Automation  
