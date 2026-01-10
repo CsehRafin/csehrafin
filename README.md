@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
-- Member at [Internet Society](https://www.internetsociety.org/)
 - General Secretary of [International Organization for Identity Documents](https://github.com/int-oid)
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
