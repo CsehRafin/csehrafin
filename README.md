@@ -1,9 +1,7 @@
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
-- General Secretary of [International Organization for Identity Documents](https://github.com/int-oid)
-  - Developing international standards for ePassport PKI and visa exchange systems
-  - Working toward intergovernmental recognition and multilateral treaty status
+- General Secretary of [International Organization for Identity Documents](https://intoid.org)
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
 ## Areas of Expertise
