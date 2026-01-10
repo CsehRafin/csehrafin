@@ -40,6 +40,8 @@
 ## Contact Me
 
 - [Linkedin](https://linkedin.com/in/csehrafin)
+- [csehrafin@proton.me](mailto:csehrafin@proton.me)
+- [cseh@tuta.io](mailto:cseh@tuta.io)
 - [csehrafin@csehrafin.cloudns.nz](mailto:csehrafin@csehrafin.cloudns.nz)
 
 
