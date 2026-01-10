@@ -3,10 +3,6 @@
 
 - Member at [Internet Society](https://www.internetsociety.org/)
 - General Secretary of [International Organization for Identity Documents](https://github.com/int-oid)
-- Secretary General of [The Computer Science Hall](https://github.com/thecomputersciencehall) (2024-2025)
-- Microsoft 365 Developer at [Microsoft](https://microsoft.com)
-- Microsoft Innovative Educator at [Microsoft](https://microsoft.com)
-- [Microsoft Azure](https://azure.microsoft.com/) Developer and Engineer
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
 ## Areas of Expertise
