@@ -4,7 +4,7 @@
 - General Secretary of [International Organization for Identity Documents](https://intoid.org)
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
-## Areas of Expertise
+## Areas of Skills & Expertise
 - Security Architecture Design and Implementation  
 - Vulnerability Assessment & Remediation  
 - Threat Intelligence & Incident Response  
