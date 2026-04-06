@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
 
-- General Secretary of [International Organization for Identity Documents](https://intoid.org)
+- Secretary-General of [International Organization for Identity Documents](https://intoid.org)
 - Cloud Innovator at [Google Cloud](cloud.google.com)
 
 ## Areas of Skills & Expertise
