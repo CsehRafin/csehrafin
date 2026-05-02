@@ -1,45 +1,69 @@
+<h1 align="center">Ishtiaque Ahmed Rafin</h1>
 
-<h1 align="center">Hello, I'm Ishtiaque Ahmed Rafin</h1>
+<p align="center">
+Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & Architect (eID, ePassports, eMRTDs)
+</p>
 
-- Secretary-General of [International Organization for Identity Documents](https://intoid.org)
-- Cloud Innovator at [Google Cloud](cloud.google.com)
+- Secretary-General, [International Organization for Identity Documents (INTOID/OIDI)](https://intoid.org)
+- Google Cloud Innovator
 
-## Areas of Skills & Expertise
-- Security Architecture Design and Implementation  
-- Vulnerability Assessment & Remediation  
-- Threat Intelligence & Incident Response  
-- Cloud Security, DevSecOps & Compliance  
-- Risk Management and Mitigation  
-- Authentication, Access Control, & Identity Federation  
-- Auth0, Microsoft Entra ID, Google Cloud Identity, Oracle Cloud Infrastructure  
-- IPKD / ICAO DOC 9303 Compliant Systems  
-- Development of Secure eID, ePassport, eMRTD, ABIS & AFIS Systems  
-- Machine Learning, AI Vector Search, and Edge Intelligence  
-- ISO 27001:2022, ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794, FIPS 203–205  
-- GDPR / Swiss FADP Compliance  
-- Intellectual Property, Treaty & International Law Researcher
-- Trust Frameworks & Directory Services for eID, ePassport, and Visa Systems  
-- Quantum Computing & IBM Qiskit Solutions  
-- Multi-cloud Architecture and Infrastructure Automation  
-- Full Stack Development  
+## Skills & Expertise
+
+**Identity Document Systems & PKI**
+- ICAO Doc 9303 / IPKD Compliant eMRTD, eID, ePassport & Visa System Development
+- ABIS & AFIS Platform Design & Implementation
+- Public Key Infrastructure (PKI) — Governmental & Intergovernmental Deployments
+- CSCA / Master List Management · ICAO PKD Integration
+- Trust Frameworks & Directory Services for eID, ePassport, and Secure Citizen Identity Platforms
+- ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794
+- BSI TR-03110
+
+**Security Architecture & Assurance**
+- Security Architecture Design and Implementation
+- Vulnerability Assessment & Remediation
+- Threat Intelligence & Incident Response
+- Common Criteria Evaluation (CC:2022)
+- ISO 27001:2022 Lead Auditor
+- NIST FIPS 203 (ML-KEM) · FIPS 204 (ML-DSA) · FIPS 205 (SLH-DSA) · FIPS 206
+- GDPR / Swiss FADP Compliance
+- Risk Management and Mitigation
+
+**Cloud, Infrastructure & DevSecOps**
+- Cloud Security, DevSecOps & Compliance
+- Multi-cloud Architecture and Infrastructure Automation
+- Authentication, Access Control & Identity Federation
+- Auth0 · Microsoft Entra ID · Google Cloud Identity · Oracle Cloud Infrastructure
+- Zero Trust Architecture
+
+**Systems & Low-Level Engineering**
+- IBM Z / s390x Architecture · z/VM · zLinux · Sysplex
+- Mainframe Security and Workload Management
 - Embedded & Government-Grade Systems
+- Full Stack Development
+
+**Research & Applied Science**
+- Machine Learning, AI Vector Search & Edge Intelligence
+- Quantum Computing & IBM Qiskit
+- NIST SD-302 Facial Recognition Benchmarking (FRTE 1:1)
+- Formal Verification (Coq, Lean 4, F★)
+- Post-Quantum Cryptography Research & Standards Compliance
+
+**Law, Policy & Standards**
+- Intellectual Property, Treaty & International Law
+- ICAO, ISO/IEC, NIST, and International Technical Standards Compliance
+- International Financial Regulation & Compliance Frameworks (BIS, FATF, FSB)
 
 ## Projects
-[All Projects](https://www.linkedin.com/in/csehrafin/details/projects/)
 
-## Current Technical Focus
+[All Projects](https://csehrafin.github.io/projects)
 
-- Multi-cloud Identity Management & Federation  
-- High-Security Document Issuance Platforms  
-- Public Key Infrastructure (PKI) Deployment in Governmental & Intergovernmental Systems  
-- Compliance with ICAO, ISO/IEC, NIST, and Other International Technical Standards  
-- Trust Frameworks and Directory Services for eID, ePassport, Visa Systems, and Secure Citizen Identity Platforms  
+## Publications
 
+[All Publications](https://csehrafin.github.io/publications)
 
-## Contact Me
+## Contact
 
-- [Linkedin](https://linkedin.com/in/csehrafin)
-- [ishtiaque.rafin@proton.me](mailto:ishtiaque.rafin@proton.me) [Primary Contact]
-- [csehrafin@intoid.org](mailto:csehrafin@intoid.org) [Contact Representing the International Organization for Identity Documents (INTOID/OIDI)]
-
-
+- [LinkedIn](https://linkedin.com/in/csehrafin)
+- [ishtiaque.rafin@proton.me](mailto:ishtiaque.rafin@proton.me) - Primary (Personal)
+- [csehrafin@intoid.org](mailto:csehrafin@intoid.org) - Organization (INTOID)
+- [ORCID 0009-0003-4639-8800](https://orcid.org/0009-0003-4639-8800)
