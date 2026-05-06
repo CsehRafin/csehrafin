@@ -12,7 +12,7 @@ Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & 
 **Identity Document Systems & PKI**
 - ICAO Doc 9303 / IPKD Compliant eMRTD, eID, ePassport & Visa System Development
 - ABIS & AFIS Platform Design & Implementation
-- Public Key Infrastructure (PKI) — Governmental & Intergovernmental Deployments
+- Public Key Infrastructure (PKI)
 - CSCA / Master List Management · ICAO PKD Integration
 - Trust Frameworks & Directory Services for eID, ePassport, and Secure Citizen Identity Platforms
 - ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794
