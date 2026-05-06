@@ -14,7 +14,7 @@ Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & 
 - ABIS & AFIS Platform Design & Implementation
 - Public Key Infrastructure (PKI)
 - CSCA / Master List Management · ICAO PKD Integration
-- Trust Frameworks & Directory Services for eID, ePassport, and Secure Citizen Identity Platforms
+- Trust Frameworks & Directory Services for eIDs, ePassports
 - ISO/IEC 7810 / 7816 / 14443 / 18013 / 24727 / 39794
 - BSI TR-03110
 
