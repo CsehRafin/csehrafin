@@ -37,9 +37,8 @@ Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & 
 
 **Systems & Low-Level Engineering**
 - IBM Z / s390x Architecture · z/VM · zLinux · Sysplex
-- Mainframe Security and Workload Management
-- Embedded & Government-Grade Systems
-- Full Stack Development
+- Mainframe Security
+- Embedded Systems
 
 **Research & Applied Science**
 - Machine Learning, AI Vector Search & Edge Intelligence
