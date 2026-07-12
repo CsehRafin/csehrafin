@@ -36,7 +36,7 @@ Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & 
 - Zero Trust Architecture
 
 **Systems & Low-Level Engineering**
-- IBM Z / s390x Architecture · z/VM · zLinux · Sysplex
+- IBM Z / s390x Architecture · z/VM · zLinux
 - Mainframe Security
 - Embedded Systems
 
