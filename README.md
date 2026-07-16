@@ -24,7 +24,7 @@ Multidisciplinary Scientist - Information Security Specialist -  PKI Engineer & 
 - Threat Intelligence & Incident Response
 - Common Criteria Evaluation (CC:2022)
 - ISO 27001:2022, 27701:2025 Lead Auditor
-- NIST FIPS 203 (ML-KEM) · FIPS 204 (ML-DSA) · FIPS 205 (SLH-DSA) · FIPS 206
+- NIST FIPS 203 (ML-KEM) · FIPS 204 (ML-DSA) · FIPS 205 (SLH-DSA) · FIPS 206 (FN-DSA)
 - GDPR / Swiss FADP Compliance
 - Risk Management and Mitigation
 
